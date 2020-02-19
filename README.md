@@ -2,7 +2,7 @@
 
 ### Description
 
-This application works with Yandex.Maps. With it, you user build routes, draw polygons and work with labels of different types.
+This application works with Yandex.Maps. With it,user can build routes, draw polygons and work with labels of different types.
 
 ![alt text](https://i.ibb.co/N9tQpRq/2020-02-19-22-41-39.png)
 

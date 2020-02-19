@@ -1,4 +1,4 @@
-# Quiz app using react + firebase
+# React app for Yandex.Maps
 
 ### Description
 

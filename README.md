@@ -4,7 +4,7 @@
 
 This application works with Yandex.Maps. With it, you user build routes, draw polygons and work with labels of different types.
 
-![alt text](http://saveimg.ru/show-image.php?id=cad6a08717ad844e236f4646a021588d)
+![alt text](https://i.ibb.co/N9tQpRq/2020-02-19-22-41-39.png)
 
 ### Installation
 
